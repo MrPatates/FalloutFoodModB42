@@ -1,0 +1,40 @@
+[h1]Этот мод является портом [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843941815]мода Fallout Food[/url] на B42.[/h1]
+
+[h2]Этот мод добавляет дореволюционные продукты из вселенной Fallout[/h2]
+
+Когда вы откроете бутылку Nuka-Cola, вы получите крышку от бутылки, которая может быть полезна для торговли.
+Предметы можно найти как в магазинах, так и в домах.
+
+[h2] Включает следующие предметы : [/h2]
+
+[h3]Напитки : [/h3]
+[list]
+[*]Nuka-Cola,
+[*]Sunset Sarsaparilla,
+[/list]
+[h3]Еда : [/h3]
+[list]
+[*]SugarBombs
+[*]Cram
+[*]InstaMash
+[*]PorknBeans
+[*]Fancy Lads Snack Cakes
+[*]BlamCo Mac & Cheese
+[*]Big Pops Bubblegum
+[*]Dandy Boy Apples
+[*]Yum Yum Deviled Eggs
+[*]Cotton Candy Bites
+[/list]
+
+[h2] Доступные языки : [/h2]
+[list]
+[*]DE : Немецкий
+[*]EN : Английский
+[*]ES : Испанский
+[*]FR : Французский
+[*]IT : Итальянский
+[*]RU : Русский
+[/list]
+
+ID Workshop : 3426711866
+ID мода : FOCM42
