@@ -1,0 +1,40 @@
+[h1]Este mod es un puerto del [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843941815]mod Fallout Food[/url] a la B42.[/h1]
+
+[h2]Este mod añade alimentos de antes de la guerra del universo Fallout[/h2]
+
+Cuando abras una Nuka Cola, recibirás una tapa de botella, que podría ser útil para fines comerciales.
+Los objetos se pueden encontrar tanto en tiendas como en casas.
+
+[h2] Los objetos incluyen : [/h2]
+
+[h3]Bebidas : [/h3]
+[list]
+[*]Nuka Cola,
+[*]Sunset Sarsaparilla,
+[/list]
+[h3]Comida : [/h3]
+[list]
+[*]SugarBombs
+[*]Cram
+[*]InstaMash
+[*]PorknBeans
+[*]Fancy Lads Snack Cakes
+[*]BlamCo Mac & Cheese
+[*]Big Pops Bubblegum
+[*]Dandy Boy Apples
+[*]Yum Yum Deviled Eggs
+[*]Cotton Candy Bites
+[/list]
+
+[h2] Idiomas disponibles : [/h2]
+[list]
+[*]DE : Alemán
+[*]EN : Inglés
+[*]ES : Español
+[*]FR : Francés
+[*]IT : Italiano
+[*]RU : Ruso
+[/list]
+
+ID del Workshop : 3426711866
+ID del Mod : FOCM42
