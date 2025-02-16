@@ -10,7 +10,7 @@ Les objets peuvent être trouvés aussi bien dans les magasins que dans les mais
 [h3]Boissons : [/h3]
 [list]
 [*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCola.png[/img]Nuka Cola,
-[*]Sunset Sarsaparilla,
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_SSBottle.png[/img]Sunset Sarsaparilla,
 [/list]
 [h3]Nourriture : [/h3]
 [list]
