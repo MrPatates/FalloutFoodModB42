@@ -1,32 +1,129 @@
 [h1]This mod is a port of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843941815] Fallout Food mod [/url] to B42.[/h1]
+[h1]And adds other food-related content from Fallout.[/h1]
 
-[h2]This mod adds in pre-war food from the Fallout universe[/h2]
+[h2]This mod adds pre-war food from the Fallout universe[/h2]
 
-When you open a Nuka Cola you will receive a bottle cap, which could be useful for trading purposes.
-Items can be found both in shops and houses.
+When you open a Nuka Cola, you will receive a bottle cap, which could be useful for trading.
+Items can be found both in stores and in houses.
 
-[h2] Items include : [/h2]
+[h2] Items include: [/h2]
 
-[h3]Drinks : [/h3]
+[h3]Drinks: [/h3]
+
 [list]
-[*]Nuka Cola,
-[*]Sunset Sarsaparilla,
-[/list]
-[h3]Food : [/h3]
-[list]
-[*]SugarBombs
-[*]Cram
-[*]InstaMash
-[*]PorknBeans
-[*]Fancy Lads Snack Cakes
-[*]BlamCo Mac & Cheese
-[*]Big Pops Bubblegum
-[*]Dandy Boy Apples
-[*]Yum Yum Deviled Eggs
-[*]Cotton Candy Bites
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCola.png[/img] Nuka Cola
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_SSBottle.png[/img] Sunset Sarsaparilla
+
 [/list]
 
-[h2] Language available : [/h2]
+[h3]Food: [/h3]
+
+[list]
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_SugarBombs.png[/img] SugarBombs
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Cram.png[/img] Cram
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_InstaMash.png[/img] InstaMash
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_PorknBeans.png[/img] PorknBeans
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_FancyLadsSnackCakes.png[/img]Fancy Lads Snack Cakes
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_BlamCoMacCheese.png[/img]BlamCo Mac & Cheese
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_BigPopsBubbleGum.png[/img]Big Pops Bubblegum
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_DandyBoyApples.png[/img]Dandy Boy Apples
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_YumYumDeviledEggs.png[/img]Yum Yum Deviled Eggs
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_CottonCandyBites.png[/img]Cotton Candy Bites
+
+[/list]
+
+[h2][u][b]New[/b][/u]! Added other types of [u]Nuka-Cola[/u]: [/h2]
+
+[list]
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaQuantum.png[/img] Nuka Quantum
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCherry.png[/img] Nuka Cherry
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCranberry.png[/img] Nuka Cranberry
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaTwist.png[/img] Nuka Twist
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaDark.png[/img] Nuka Dark
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaGrape.png[/img] Nuka Grape
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaOrange.png[/img] Nuka Orange
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaQuartz.png[/img] Nuka Quartz
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaVictory.png[/img] Nuka Victory
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaWild.png[/img] Nuka Wild
+
+[/list]
+
+[h2][u][b]New[/b][/u]! Added Nuka-Cola Recipes and [u]Nuka Mix[/u]: [/h2]
+
+[b]To be able to craft the Nuka Mix, you first need to find the Nuka-Cola Recipes and read it to unlock the crafts.[/b]
+[b]The recipes implemented in this mod are based on the crafting from Fallout 4's Nuka-World DLC.[/b]
+
+[list]
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaColaRecipe.png[/img] Nuka-Cola Recipes
+
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCideMix.png[/img] Nuka Cide
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCoolerMix.png[/img] Nuka Cooler
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaLoveMix.png[/img] Nuka Love
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaPunchMix.png[/img] Nuka Punch
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaRayMix.png[/img] Nuka Ray
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaRushMix.png[/img] Nuka Rush
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaVoidMix.png[/img] Nuka Void
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaXtremeMix.png[/img] Nuka Xtreme
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Newka Cola
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Berry
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Bombdrop
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Buzz
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Fancy
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Free
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Frutti
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Hearty
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Lixir
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Power
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Sunrise
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Nukamix.png[/img] Nuka Twin
+
+[/list]
+
+
+[h2] Available Languages: [/h2]
 [list]
 [*]DE: German
 [*]EN: English
@@ -36,8 +133,5 @@ Items can be found both in shops and houses.
 [*]RU: Russian
 [/list]
 
-Workshop ID: 3426711866
-Mod ID: FOCM42
-
-Workshop ID: 3426711866
-Mod ID: FOCM42
+ID du Workshop : 3426711866
+ID du Mod : FOCM42

@@ -1,4 +1,4 @@
-[h1]Este mod es un puerto del [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843941815]mod Fallout Food[/url] a la B42.[/h1]
+[h1]Este mod es un puerto del [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843941815] Fallout Food mod [/url] a la B42.[/h1]
 
 [h2]Este mod añade alimentos de antes de la guerra del universo Fallout[/h2]
 
@@ -8,22 +8,39 @@ Los objetos se pueden encontrar tanto en tiendas como en casas.
 [h2] Los objetos incluyen : [/h2]
 
 [h3]Bebidas : [/h3]
+
 [list]
-[*]Nuka Cola,
-[*]Sunset Sarsaparilla,
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCola.png[/img]Nuka Cola
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_SSBottle.png[/img]Sunset Sarsaparilla
+
 [/list]
+
 [h3]Comida : [/h3]
+
 [list]
-[*]SugarBombs
-[*]Cram
-[*]InstaMash
-[*]PorknBeans
-[*]Fancy Lads Snack Cakes
-[*]BlamCo Mac & Cheese
-[*]Big Pops Bubblegum
-[*]Dandy Boy Apples
-[*]Yum Yum Deviled Eggs
-[*]Cotton Candy Bites
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_SugarBombs.png[/img]SugarBombs
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Cram.png[/img]Cram
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_InstaMash.png[/img]InstaMash
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_PorknBeans.png[/img]PorknBeans
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_FancyLadsSnackCakes.png[/img]Fancy Lads Snack Cakes
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_BlamCoMacCheese.png[/img]BlamCo Mac & Cheese
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_BigPopsBubbleGum.png[/img]Big Pops Bubblegum
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_DandyBoyApples.png[/img]Dandy Boy Apples
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_YumYumDeviledEggs.png[/img]Yum Yum Deviled Eggs
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_CottonCandyBites.png[/img]Cotton Candy Bites
+
 [/list]
 
 [h2] Idiomas disponibles : [/h2]
