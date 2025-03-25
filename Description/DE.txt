@@ -124,12 +124,13 @@ Gegenstände können sowohl in Geschäften als auch in Häusern gefunden werden.
 
 [h2]Verfügbare Sprachen:[/h2]
 [list]
-[*]DE: Deutsch
-[*]EN: Englisch
-[*]ES: Spanisch
-[*]FR: Französisch
-[*]IT: Italienisch
-[*]RU: Russisch
+[*]DE : Deutsch
+[*]EN : Englisch
+[*]ES : Spanisch
+[*]FR : Französisch
+[*]IT : Italienisch
+[*]RU : Russisch
+[*]TR : Türkisch
 [/list]
 
 Workshop-ID: 3426711866

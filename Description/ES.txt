@@ -51,6 +51,7 @@ Los objetos se pueden encontrar tanto en tiendas como en casas.
 [*]FR : Francés
 [*]IT : Italiano
 [*]RU : Ruso
+[*]TR : Turco
 [/list]
 
 ID del Workshop : 3426711866

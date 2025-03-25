@@ -131,6 +131,7 @@ Les objets peuvent être trouvés aussi bien dans les magasins que dans les mais
 [*]FR : Français
 [*]IT : Italien
 [*]RU : Russe
+[*]TR : Turc
 [/list]
 
 ID du Workshop : 3426711866

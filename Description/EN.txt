@@ -125,12 +125,13 @@ Items can be found both in stores and in houses.
 
 [h2] Available Languages: [/h2]
 [list]
-[*]DE: German
-[*]EN: English
-[*]ES: Spanish
-[*]FR: French
-[*]IT: Italian
-[*]RU: Russian
+[*]DE : German
+[*]EN : English
+[*]ES : Spanish
+[*]FR : French
+[*]IT : Italian
+[*]RU : Russian
+[*]TR : Turkish
 [/list]
 
 ID du Workshop : 3426711866

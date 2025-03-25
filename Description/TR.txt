@@ -1,0 +1,92 @@
+[h1]Bu mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843941815] Fallout Food modunun [/url] B42'ye uyarlanmış halidir.[/h1]
+
+[h2]Bu mod, Fallout evreninden gelen savaş öncesi yiyecekleri ekler[/h2]
+
+Bir Nuka-Cola açtığınızda bir şişe kapağı alırsınız, bu ticaret amaçlı işe yarayabilir.
+Eşyalar hem dükkanlarda hem de evlerde bulunabilir.
+
+[h1]Bu mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843941815] Fallout Food modunun [/url] B42'ye uyarlanmış halidir.[/h1]
+[h1]Ve Fallout'tan diğeri yiyecek içeriğini ekler.[/h1]
+
+[h2]Bu mod, Fallout evreninden gelen savaş öncesi yiyecekleri ekler[/h2]
+
+Bir Nuka-Cola açtığınızda, ticaret için kullanışlı olabilecek bir şişe kapağı alırsınız.
+Eşyalar hem dükkanlarda hem de evlerde bulunabilir.
+
+[h2] Eklenen ürünler: [/h2]
+
+[h3]İçecekler: [/h3]
+
+[list]
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCola.png[/img] Nuka Cola
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_SSBottle.png[/img] Sunset Sarsaparilla
+
+[/list]
+
+[h3]Yiyecekler: [/h3]
+
+[list]
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_SugarBombs.png[/img] SugarBombs
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_Cram.png[/img] Cram
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_InstaMash.png[/img] InstaMash
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_PorknBeans.png[/img] PorknBeans
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_FancyLadsSnackCakes.png[/img]Fancy Lads Snack Cakes
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_BlamCoMacCheese.png[/img]BlamCo Mac & Cheese
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_BigPopsBubbleGum.png[/img]Big Pops Bubblegum
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_DandyBoyApples.png[/img]Dandy Boy Apples
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_YumYumDeviledEggs.png[/img]Yum Yum Deviled Eggs
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_CottonCandyBites.png[/img]Cotton Candy Bites
+
+[/list]
+
+[h2][u][b]Yeni[/b][/u]! Diğer [u]Nuka-Cola[/u] türleri eklendi: [/h2]
+
+[list]
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaQuantum.png[/img] Nuka Quantum
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCherry.png[/img] Nuka Cherry
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaCranberry.png[/img] Nuka Cranberry
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaTwist.png[/img] Nuka Twist
+
+[/list]
+
+[h2][u][b]Yeni[/b][/u]! Nuka-Cola Tarifleri ve [u]Nuka Mix[/u] eklendi: [/h2]
+
+[b]Nuka Mix oluşturabilmek için önce Nuka-Cola tariflerini bulup okumalı ve tarifleri açmalısınız.[/b]
+[b]Bu modda uygulanan tarifler Fallout 4'teki Nuka-World DLC'sindeki tariflere dayanmaktadır.[/b]
+
+[list]
+
+[*][img]https://raw.githubusercontent.com/MrPatates/FalloutFoodModB42/refs/heads/main/Icons/Item_NukaColaRecipe.png[/img] Nuka-Cola Tarifleri
+
+[/list]
+
+[h2] Kullanılabilir Diller: [/h2]
+[list]
+[*]DE : Almanca
+[*]EN : İngilizce
+[*]ES : İspanyolca
+[*]FR : Fransızca
+[*]IT : İtalyanca
+[*]RU : Rusça
+[*]TR : Türkçe
+[/list]
+
+Workshop ID: 3426711866
+Mod ID: FOCM42
+

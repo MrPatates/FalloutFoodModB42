@@ -124,12 +124,13 @@ Gli oggetti possono essere trovati sia nei negozi che nelle case.
 
 [h2]Lingue disponibili:[/h2]
 [list]
-[*]DE: Tedesco
-[*]EN: Inglese
-[*]ES: Spagnolo
-[*]FR: Francese
-[*]IT: Italiano
-[*]RU: Russo
+[*]DE : Tedesco
+[*]EN : Inglese
+[*]ES : Spagnolo
+[*]FR : Francese
+[*]IT : Italiano
+[*]RU : Russo
+[*]TR : Turco
 [/list]
 
 ID del Workshop: 3426711866
